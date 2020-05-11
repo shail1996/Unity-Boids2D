@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-05-11T16:00:23.956+05:30
+  initializedAtString: 2020-05-11T15:45:11.321+05:30
+  entries:
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Trinity\Dissertation\Unity\Boids 2D\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
